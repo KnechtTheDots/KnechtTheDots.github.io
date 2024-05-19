@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Josh Knecht",
     "section": "",
-    "text": "hist(rnorm(1e4, 10, 20))"
+    "text": "Working on figuring this out, for now, enjoy a histogram!\n\nhist(rnorm(1e4, 10, 20))"
   },
   {
     "objectID": "about.html",
