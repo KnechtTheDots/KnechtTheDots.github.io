@@ -1,11 +1,7 @@
 ---
-title: "KnechtTheDots.github.io"
+title: "Josh Knecht"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{r message=FALSE}
+hist(rnorm(1e4, 10, 20))
 ```

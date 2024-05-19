@@ -2,15 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "KnechtTheDots.github.io",
+    "title": "Josh Knecht",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "hist(rnorm(1e4, 10, 20))"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\nx &lt;- rnorm(100)\na &lt;- 5\nb &lt;- .5\ny &lt;- a + b*x + rnorm(100, 0, .5)\nmod &lt;- lm(y ~ x)\nplot(y ~ x, pch = 19)\nabline(a = coef(mod)[1], b = coef(mod)[2], lwd = 3, col = \"red\")"
   }
 ]

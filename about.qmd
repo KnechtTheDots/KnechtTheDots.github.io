@@ -5,5 +5,11 @@ title: "About"
 About this site
 
 ```{r}
-1 + 1
+x <- rnorm(100)
+a <- 5
+b <- .5
+y <- a + b*x + rnorm(100, 0, .5)
+mod <- lm(y ~ x)
+plot(y ~ x, pch = 19)
+abline(a = coef(mod)[1], b = coef(mod)[2], lwd = 3, col = "red")
 ```
