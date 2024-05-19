@@ -4,13 +4,6 @@
     "href": "index.html",
     "title": "Josh Knecht",
     "section": "",
-    "text": "Working on figuring this out, for now, enjoy a histogram!\n\nhist(rnorm(1e4, 10, 20))"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\nx &lt;- rnorm(100)\na &lt;- 5\nb &lt;- .5\ny &lt;- a + b*x + rnorm(100, 0, .5)\nmod &lt;- lm(y ~ x)\nplot(y ~ x, pch = 19)\nabline(a = coef(mod)[1], b = coef(mod)[2], lwd = 3, col = \"red\")"
+    "text": "Working on figuring this out!"
   }
 ]
