@@ -4,12 +4,17 @@ image: img/monkeyflower.jpg
 toc: false
 about:
   template: trestles
-  image-shape: round
+  image-shape: rectangle
   image-width: 20em
   links: 
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/knechtthedots
-    - text: Email
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/knechtfour.bsky.social
+    - icon: envelope
+      text: Email
       href: mailto:jknecht1@binghamton.edu
 ---
 

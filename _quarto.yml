@@ -3,14 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "KnechtTheDots.github.io"
+  title: "Josh Knecht"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - research.qmd
-
+      - href: docs/CV.pdf
+        text: CV
+        target: _blank
+      - icon: github
+        href: https://github.com/knechtthedots
+        target: _blank
+      
 format:
   html:
     theme: cosmo
