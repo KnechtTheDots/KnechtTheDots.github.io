@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - href: docs/CV.pdf
+      - href: docs/CV/CV.pdf
         text: CV
         target: _blank
       - icon: github

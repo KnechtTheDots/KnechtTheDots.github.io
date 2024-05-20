@@ -1,6 +1,0 @@
----
-title: CV
-format: pdf
----
-
-Working on it!

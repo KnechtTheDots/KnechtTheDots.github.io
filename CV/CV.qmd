@@ -1,0 +1,148 @@
+---
+title: "Josh Knecht's CV"
+author:
+  firstname: Josh
+  lastname: Knecht
+  address: "Binghamton University, Department of Biological Sciences"
+  position: "PhD Student"
+  contacts:
+    - icon: fa envelope
+      text: jknecht1@binghamton.edu
+      url: "mailto:jknecht1@binghamton.edu"
+    - icon: assets/icon/bi-house-fill.svg
+      text: KnechtTheDots.github.io
+      url: https://knechtthedots.github.io
+    - icon: fa brands github
+      text: KnechtTheDots
+      url: https://github.com/knechtthedots
+format: awesomecv-typst
+---
+
+## Education
+
+```{=typst}
+#resume-entry(
+  title: "PhD Studies in Biology",
+  location: "Binghamton, NY",
+  date: "2021 - Present",
+  description: "Binghamton University",
+)
+#resume-entry(
+  title: "BS in Plant Science",
+  location: "Ithaca, NY",
+  date: "2006 - 2010",
+  description: "Cornell University",
+)
+```
+## Research Experience
+
+```{=typst}
+#resume-entry(
+  title: "PhD Student",
+  location: "Binghamton, NY",
+  date: "2021 - Present",
+  description: "Binghamton University, Department of Biological Sciences"
+)
+#resume-entry(
+  title: "Research Technician",
+  location: "Ithaca, NY",
+  date: "2018 - 2021",
+  description: "Cornell University, Section of Plant Breeding and Genetics"
+)
+#resume-entry(
+  title: "Undergraduate Research Assistant",
+  location: "Ithaca, NY",
+  date: "2007 - 2010",
+  description: "Cornell University, Department of Entomology"
+)
+```
+## Invited Seminars
+
+```{=typst}
+#resume-entry(
+  title: "Graduate Research Excellence Grant Seminar Series",
+  location: "Society for the Study of Evolution",
+  date: "2024",
+  description: "Are Seedling Phenotypes A Source of Reproductive Isolation in Early Divergent Monkeyflowers?"
+)
+```
+## Conference Talks
+
+```{=typst}
+#resume-entry(
+  title: "Evolution Conference",
+  location: "Albuquerque, NM",
+  date: "2023",
+  description: "Heterosis Conceals Hybrid Incompatibilities Affecting Seedling Growth in Early Divergent Monkeyflowers"
+)
+```
+## Teaching
+
+```{=typst}
+#resume-entry(
+  title: "Guest Lecture: Mechanisms of Evolution",
+  location: "Binghamton University",
+  date: "Spring 2024",
+  description: "Evolution and Maintenance of Sex"
+)
+#resume-entry(
+  title: "Guest Lecture: Genetics Lecture",
+  location: "Binghamton University",
+  date: "Fall 2022",
+  description: "Hardy-Weinberg Equilibrium"
+)
+#resume-entry(
+  title: "Graduate Teaching Assistant",
+  location: "Binghamton University",
+  date: "Fall 2021 - Present",
+  description: "Courses: Intro to Cell and Molecular Biology, Genetics Lecture, Genetics Lab, Mechanisms of Evolution"
+)
+```
+## Awards
+
+```{=typst}
+#resume-entry(
+  title: "Department of Biological Sciences Syzmanski Award",
+  location: "Binghamton Univeristy",
+  date: "2023",
+  description: "Travel award for students to present research at professional conferences"
+)
+#resume-entry(
+  title: "Graduate Research Excellence Grant-R.C. Lewontin Early Award",
+  location: "Society for the Study of Evolution",
+  date: "2022",
+  description: "Awarded by the Society for the Study of Evolution to PhD students in their first two years of study"
+)
+```
+## Service and Outreach
+
+```{=typst}
+#resume-entry(
+  title: "Co-founder and co-organizer of 'Hacky Hours'",
+  location: "Binghamton University",
+  date: "2023 - Present",
+  description: "Weekly meeting of Binghamton Biology graduate students to improve computational and statistical abilities"
+)
+#resume-entry(
+  title: "Junior Biologists Outreach Program",
+  location: "Binghamton, NY",
+  date: "2021 - 2023",
+  description: "Guided middle school students through conduct and presentation of biological research"
+)
+```
+## Professional Development
+
+```{=typst}
+#resume-entry(
+  title: "Evolutionary Quantitative Genetics Workshop",
+  location: "Friday Harbor Laboratories (online)",
+  date: "2022",
+  description: "Review of evolutionary quantitative genetic theory"
+)
+#resume-entry(
+  title: "Summer Institute In Statistical Genetics",
+  location: "University of Washington (online)",
+  date: "2022",
+  description: "Modules attended: Statistical Genetics, Bayesian Statistics for Genetics, and Association Mapping: GWAS and Sequencing Data"
+)
+```
