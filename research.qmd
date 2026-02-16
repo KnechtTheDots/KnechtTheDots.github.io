@@ -1,5 +1,27 @@
 ---
-title: "Research"
+title: ""
+format:
+  html:
+    grid: 
+      margin-width: 450px
+      body-width: 600px
 ---
 
-Working on it!
+## Research
+
+
+::: column-margin
+![](img/monkeyflower.jpeg)
+:::
+
+If we recognize speciation as the process of evolving reproductive isolation (i.e. reducing gene flow) between populations, we can broadly classify isolating mechanisms into two broad categories: 1) those that prevent gametes from coming together, and 2) those that decrease fitness of resulting hybrids if the first fails. My research has focused on the consequences of hybridization. Specifically, I have focused on seedling traits of *Mimulus aurantiacus* hybrids (see image).
+
+## Talks
+
+### Society for the Study of Evolution GREG Seminar
+
+{{< video https://www.youtube.com/watch?v=3IXoBYdBCH4 >}}
+
+### Society for the Study of Evolution: Hamilton Award Talks
+
+{{< video https://youtu.be/baDa_JvZBz8 start="896" >}}

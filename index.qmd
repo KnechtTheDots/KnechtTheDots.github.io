@@ -1,6 +1,6 @@
 ---
 title: "Josh Knecht"
-image: img/monkeyflower.jpg
+image: img/em_n_me.jpg
 toc: false
 about:
   template: trestles
@@ -18,4 +18,4 @@ about:
       href: mailto:jknecht1@binghamton.edu
 ---
 
-Working on figuring this out!
+Currently a PhD student in the Biological Sciences department at Binghamton University in [**Jay Sobel's**](https://www.sobel-lab.com/) lab. I am interested in the processes that cause populations to diverge and become distinct species. My current work uses the bush monkeyflower, *Mimulus aurantiacus* to learn about these processes.
