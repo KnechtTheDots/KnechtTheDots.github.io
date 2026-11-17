@@ -34,6 +34,114 @@ format: awesomecv-typst
   description: "Cornell University",
 )
 ```
+
+
+## Publications
+
+
+```{=typst}
+_*Submitted*_
+
+*Knecht, J.*, Martinez, I, & Sobel, J.M. (Under Review) _Recombination and drought stress reveal incompatibilities in hybrid bush monkeyflower seedlings_. Submitted to: _Evolution_.
+```
+
+## Invited Seminars
+
+```{=typst}
+#resume-entry(
+  title: "Graduate Research Excellence Grant Seminar Series",
+  location: "Society for the Study of Evolution",
+  date: "2024",
+  description: "Are Seedling Phenotypes A Source of Reproductive Isolation in Early Divergent Monkeyflowers?"
+)
+```
+
+## Conference Talks
+
+```{=typst}
+#resume-entry(
+  title: "Binghamton Biology Symposium",
+  location: "Binghamton, NY",
+  date: "2026",
+  description: "Evidence for hybrid incompatibilities in a monkeyflower hybrid zone"
+)
+#resume-entry(
+  title: "Speciation Gordon Research Conference",
+  location: "Ventura, CA",
+  date: "2025",
+  description: "Seedling Trait Evolution in Hybrid Populations of Bush Monkeyflowers Generates Reproductive Isolation"
+)
+#resume-entry(
+  title: "Evolution Conference",
+  location: "Athens, GA",
+  date: "2025",
+  description: "Does selection on seedling traits in hybrid populations cause reproductive isolation?"
+)
+#resume-entry(
+  title: "Evolution Conference",
+  location: "Albuquerque, NM",
+  date: "2023",
+  description: "Heterosis Conceals Hybrid Incompatibilities Affecting Seedling Growth in Early Divergent Monkeyflowers"
+)
+```
+
+## Awards
+
+```{=typst}
+#resume-entry(
+  title: "Finalist: W.D. Hamilton Award for Outstanding Graduate Student Presentation",
+  location: "Society for the Study of Evolution",
+  date: "2025"
+)
+#resume-entry(
+  title: "Graduate Research Excellence Grant-R.C. Lewontin Early Award",
+  location: "Society for the Study of Evolution",
+  date: "2022",
+  description: "Awarded by the Society for the Study of Evolution to PhD students in their first two years of study"
+)
+#resume-entry(
+  title: "Department of Biological Sciences Syzmanski Award",
+  location: "Binghamton Univeristy",
+  date: "2023",
+  description: "Travel award for students to present research at professional conferences"
+)
+```
+
+## Teaching
+
+```{=typst}
+#resume-entry(
+  title: "Instructor of Record",
+  location: "Binghamton University",
+  date: "Summer 2026",
+  description: "Mechanisms of Evolution"
+)
+#resume-entry(
+  title: "Guest Lecture: Mechanisms of Evolution",
+  location: "Binghamton University",
+  date: "Spring 2025",
+  description: "Speciation"
+)
+#resume-entry(
+  title: "Guest Lecture: Mechanisms of Evolution",
+  location: "Binghamton University",
+  date: "Spring 2024",
+  description: "Evolution and Maintenance of Sex"
+)
+#resume-entry(
+  title: "Guest Lecture: Genetics",
+  location: "Binghamton University",
+  date: "Fall 2022",
+  description: "Hardy-Weinberg Equilibrium"
+)
+#resume-entry(
+  title: "Graduate Teaching Assistant",
+  location: "Binghamton University",
+  date: "Fall 2021 - Present",
+  description: "Courses: Intro to Cell and Molecular Biology, Genetics Lecture, Genetics Lab, Mechanisms of Evolution"
+)
+```
+
 ## Research Experience
 
 ```{=typst}
@@ -56,87 +164,7 @@ format: awesomecv-typst
   description: "Cornell University, Department of Entomology"
 )
 ```
-## Invited Seminars
 
-```{=typst}
-#resume-entry(
-  title: "Graduate Research Excellence Grant Seminar Series",
-  location: "Society for the Study of Evolution",
-  date: "2024",
-  description: "Are Seedling Phenotypes A Source of Reproductive Isolation in Early Divergent Monkeyflowers?"
-)
-```
-## Conference Talks
-
-```{=typst}
-#resume-entry(
-  title: "Speciation Gordon Research Conference",
-  location: "Ventura, CA",
-  date: "2025",
-  description: "Seedling Trait Evolution in Hybrid Populations of Bush Monkeyflowers Generates Reproductive Isolation"
-)
-#resume-entry(
-  title: "Evolution Conference",
-  location: "Athens, GA",
-  date: "2025",
-  description: "Does selection on seedling traits in hybrid populations cause reproductive isolation?"
-)
-#resume-entry(
-  title: "Evolution Conference",
-  location: "Albuquerque, NM",
-  date: "2023",
-  description: "Heterosis Conceals Hybrid Incompatibilities Affecting Seedling Growth in Early Divergent Monkeyflowers"
-)
-```
-## Teaching
-
-```{=typst}
-#resume-entry(
-  title: "Guest Lecture: Mechanisms of Evolution",
-  location: "Binghamton University",
-  date: "Spring 2025",
-  description: "Speciation"
-)
-#resume-entry(
-  title: "Guest Lecture: Mechanisms of Evolution",
-  location: "Binghamton University",
-  date: "Spring 2024",
-  description: "Evolution and Maintenance of Sex"
-)
-#resume-entry(
-  title: "Guest Lecture: Genetics Lecture",
-  location: "Binghamton University",
-  date: "Fall 2022",
-  description: "Hardy-Weinberg Equilibrium"
-)
-#resume-entry(
-  title: "Graduate Teaching Assistant",
-  location: "Binghamton University",
-  date: "Fall 2021 - Present",
-  description: "Courses: Intro to Cell and Molecular Biology, Genetics Lecture, Genetics Lab, Mechanisms of Evolution"
-)
-```
-## Awards
-
-```{=typst}
-#resume-entry(
-  title: "Finalist: W.D. Hamilton Award for Outstanding Graduate Student Presentation",
-  location: "Society for the Study of Evolution",
-  date: "2025"
-)
-#resume-entry(
-  title: "Graduate Research Excellence Grant-R.C. Lewontin Early Award",
-  location: "Society for the Study of Evolution",
-  date: "2022",
-  description: "Awarded by the Society for the Study of Evolution to PhD students in their first two years of study"
-)
-#resume-entry(
-  title: "Department of Biological Sciences Syzmanski Award",
-  location: "Binghamton Univeristy",
-  date: "2023",
-  description: "Travel award for students to present research at professional conferences"
-)
-```
 ## Service and Outreach
 
 ```{=typst}
