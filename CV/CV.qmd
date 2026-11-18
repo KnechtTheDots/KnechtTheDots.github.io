@@ -42,47 +42,32 @@ format: awesomecv-typst
 ```{=typst}
 _*Submitted*_
 
-*Knecht, J.*, Martinez, I, & Sobel, J.M. (Under Review) _Recombination and drought stress reveal incompatibilities in hybrid bush monkeyflower seedlings_. Submitted to: _Evolution_.
+*Knecht, J.*, Martinez, I., & Sobel, J.M. (Under Review). _Recombination and drought stress reveal incompatibilities in hybrid bush monkeyflower seedlings_. Submitted to: _Evolution_.
+
+Martinez, I., Tobi, O., *Knecht, J.*, & Sobel, J.M. (Under Review). _The Evolution of Postmating Reproductive Isolation Across a Speciation Continuum in Bush
+Monkeyflowers _(Mimulus_ section _Diplacus). Submitted to: _Evolution_.
 ```
 
-## Invited Seminars
+## Invited Talks and Seminars
 
 ```{=typst}
-#resume-entry(
-  title: "Graduate Research Excellence Grant Seminar Series",
-  location: "Society for the Study of Evolution",
-  date: "2024",
-  description: "Are Seedling Phenotypes A Source of Reproductive Isolation in Early Divergent Monkeyflowers?"
-)
+
+*Knecht, J.*, & Sobel, J.M. (2025). _Does selection on seedling traits in hybrid populations cause reproductive isolation?_ Society for the Study of Evolution: Hamilton Award Talks.
+
+*Knecht, J.*, & Sobel, J.M. (2025). _Seedling Trait Evolution in Hybrid Populations of Bush Monkeyflowers Generates Reproductive Isolation._ Speciation Gordon Research Conference. Ventura, CA.
+
+*Knecht, J.*, & Sobel, J.M. (2024). _Are Seedling Phenotypes A Source of Reproductive Isolation in Early Divergent Monkeyflowers?_ Society for the Study of Evolution: Graduate Research Excellence Grant Seminar Series.
+
 ```
 
 ## Conference Talks
 
 ```{=typst}
-#resume-entry(
-  title: "Binghamton Biology Symposium",
-  location: "Binghamton, NY",
-  date: "2026",
-  description: "Evidence for hybrid incompatibilities in a monkeyflower hybrid zone"
-)
-#resume-entry(
-  title: "Speciation Gordon Research Conference",
-  location: "Ventura, CA",
-  date: "2025",
-  description: "Seedling Trait Evolution in Hybrid Populations of Bush Monkeyflowers Generates Reproductive Isolation"
-)
-#resume-entry(
-  title: "Evolution Conference",
-  location: "Athens, GA",
-  date: "2025",
-  description: "Does selection on seedling traits in hybrid populations cause reproductive isolation?"
-)
-#resume-entry(
-  title: "Evolution Conference",
-  location: "Albuquerque, NM",
-  date: "2023",
-  description: "Heterosis Conceals Hybrid Incompatibilities Affecting Seedling Growth in Early Divergent Monkeyflowers"
-)
+
+*Knecht, J.*, Short, A.W., Streisfeld, M.A., & Sobel, J.M. (2026). _Evidence for hybrid incompatibilities in a monkeyflower hybrid zone._ Binghamton Biology Symposium. Binghamton, NY.
+
+
+*Knecht, J.*, & Sobel, J.M. (2023). _Heterosis Conceals Hybrid Incompatibilities Affecting Seedling Growth in Early Divergent Monkeyflowers._ Evolution Meeting. Albuquerque, NM.
 ```
 
 ## Awards
@@ -93,12 +78,14 @@ _*Submitted*_
   location: "Society for the Study of Evolution",
   date: "2025"
 )
+
 #resume-entry(
   title: "Graduate Research Excellence Grant-R.C. Lewontin Early Award",
   location: "Society for the Study of Evolution",
   date: "2022",
   description: "Awarded by the Society for the Study of Evolution to PhD students in their first two years of study"
 )
+
 #resume-entry(
   title: "Department of Biological Sciences Syzmanski Award",
   location: "Binghamton Univeristy",
@@ -110,6 +97,7 @@ _*Submitted*_
 ## Teaching
 
 ```{=typst}
+
 #resume-entry(
   title: "Instructor of Record",
   location: "Binghamton University",
@@ -171,13 +159,13 @@ _*Submitted*_
 #resume-entry(
   title: "Introduction to R Workshop",
   location: "Binghamton University",
-  date: "August 2024",
+  date: "August 2024 & 2025",
   description: "Organized a workshop run by Binghamton Biology graduate students with twin goals of introducing incoming graduate students to R and community building in the department"
 )
 #resume-entry(
   title: "Co-founder and co-organizer of 'Hacky Hours'",
   location: "Binghamton University",
-  date: "2023 - Present",
+  date: "2023 - 2025",
   description: "Weekly meeting of Binghamton Biology graduate students to improve computational and statistical abilities"
 )
 #resume-entry(
